@@ -3,6 +3,10 @@
 # List the defined jupyter kernels on your system and add current directory.
 # Chris Joakim, May 2024
 
+# activate the python venv
+source venv/bin/activate
+python --version
+
 jupyter kernelspec list
 
 # Install the current directory as a kernel 
