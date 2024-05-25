@@ -1,5 +1,7 @@
 # Jupyter
 
+This page describes the basic setup of a locally-running Jupyter Notebook Server.
+
 ---
 
 ## Docs
@@ -13,6 +15,7 @@
 
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - https://code.visualstudio.com/docs/editor/workspace-trust
+
 
 ---
 
@@ -96,6 +99,8 @@ See the above documentation links.
 
 #### Open a *.ipynb in VSC
 
+See **nb1.ipynb** in this repo as an example.
+
 Click the **Select Kernel** button at top-right of the IDE,
 and enter the URL of the locally running Jupyter Notebook Server.
 
@@ -103,4 +108,10 @@ and enter the URL of the locally running Jupyter Notebook Server.
   <img src="docs/img/select-jupyter-server.png" width="70%">
 </p>
 
+See https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 
+---
+
+## Azure OpenAI Jupyter Notebooks
+
+See - [Azure OpenAI Jupyter Notebooks](docs/jupyter-azure-openai.md)
