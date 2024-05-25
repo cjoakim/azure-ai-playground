@@ -101,7 +101,7 @@ and enter the URL of the locally running Jupyter Notebook Server
 (i.e. - http://localhost:8888/tree).
 
 <p align="center">
-  <img src="docs/img/select-jupyter-server.png" width="40%">
+  <img src="docs/img/select-jupyter-server.png" width="70%">
 </p>
 
 
