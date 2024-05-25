@@ -97,8 +97,7 @@ See the above documentation links.
 #### Open a *.ipynb in VSC
 
 Click the **Select Kernel** button at top-right of the IDE,
-and enter the URL of the locally running Jupyter Notebook Server
-(i.e. - http://localhost:8888/tree).
+and enter the URL of the locally running Jupyter Notebook Server.
 
 <p align="center">
   <img src="docs/img/select-jupyter-server.png" width="70%">
