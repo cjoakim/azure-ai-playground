@@ -54,9 +54,7 @@ cffi==1.16.0
 charset-normalizer==3.3.2
     # via requests
 comm==0.2.1
-    # via
-    #   ipykernel
-    #   ipywidgets
+    # via ipykernel
 contourpy==1.2.0
     # via matplotlib
 cycler==0.12.1
@@ -108,18 +106,9 @@ idna==3.6
     #   requests
     #   yarl
 ipykernel==6.29.2
-    # via
-    #   jupyter
-    #   jupyter-console
-    #   jupyterlab
-    #   qtconsole
+    # via jupyterlab
 ipython==8.22.1
-    # via
-    #   ipykernel
-    #   ipywidgets
-    #   jupyter-console
-ipywidgets==8.1.2
-    # via jupyter
+    # via ipykernel
 isodate==0.6.1
     # via rdflib
 isoduration==20.11.0
@@ -150,28 +139,20 @@ jsonschema[format-nongpl]==4.21.1
     #   nbformat
 jsonschema-specifications==2023.12.1
     # via jsonschema
-jupyter==1.0.0
-    # via -r requirements.in
 jupyter-client==8.6.0
     # via
     #   ipykernel
-    #   jupyter-console
     #   jupyter-server
     #   nbclient
-    #   qtconsole
-jupyter-console==6.6.3
-    # via jupyter
 jupyter-core==5.7.1
     # via
     #   ipykernel
     #   jupyter-client
-    #   jupyter-console
     #   jupyter-server
     #   jupyterlab
     #   nbclient
     #   nbconvert
     #   nbformat
-    #   qtconsole
 jupyter-events==0.9.0
     # via jupyter-server
 jupyter-lsp==2.2.2
@@ -193,8 +174,6 @@ jupyterlab-server==2.25.3
     # via
     #   jupyterlab
     #   notebook
-jupyterlab-widgets==3.0.10
-    # via ipywidgets
 kiwisolver==1.4.5
     # via matplotlib
 langchain==0.1.9
@@ -235,9 +214,7 @@ mypy-extensions==1.0.0
 nbclient==0.9.0
     # via nbconvert
 nbconvert==7.16.1
-    # via
-    #   jupyter
-    #   jupyter-server
+    # via jupyter-server
 nbformat==5.9.2
     # via
     #   jupyter-server
@@ -246,7 +223,7 @@ nbformat==5.9.2
 nest-asyncio==1.6.0
     # via ipykernel
 notebook==7.1.0
-    # via jupyter
+    # via -r requirements.in
 notebook-shim==0.2.4
     # via
     #   jupyterlab
@@ -277,8 +254,6 @@ packaging==23.2
     #   marshmallow
     #   matplotlib
     #   nbconvert
-    #   qtconsole
-    #   qtpy
 pandas==2.2.1
     # via -r requirements.in
 pandocfilters==1.5.1
@@ -294,9 +269,7 @@ platformdirs==4.2.0
 prometheus-client==0.20.0
     # via jupyter-server
 prompt-toolkit==3.0.43
-    # via
-    #   ipython
-    #   jupyter-console
+    # via ipython
 psutil==5.9.8
     # via ipykernel
 ptyprocess==0.7.0
@@ -318,9 +291,7 @@ pydantic-core==2.16.3
 pygments==2.17.2
     # via
     #   ipython
-    #   jupyter-console
     #   nbconvert
-    #   qtconsole
 pymongo==4.6.2
     # via -r requirements.in
 pyparsing==3.1.1
@@ -349,13 +320,7 @@ pyzmq==25.1.2
     # via
     #   ipykernel
     #   jupyter-client
-    #   jupyter-console
     #   jupyter-server
-    #   qtconsole
-qtconsole==5.5.1
-    # via jupyter
-qtpy==2.4.1
-    # via qtconsole
 rdflib==7.0.0
     # via -r requirements.in
 referencing==0.33.0
@@ -435,9 +400,7 @@ traitlets==5.14.1
     #   comm
     #   ipykernel
     #   ipython
-    #   ipywidgets
     #   jupyter-client
-    #   jupyter-console
     #   jupyter-core
     #   jupyter-events
     #   jupyter-server
@@ -446,7 +409,6 @@ traitlets==5.14.1
     #   nbclient
     #   nbconvert
     #   nbformat
-    #   qtconsole
 types-python-dateutil==2.8.19.20240106
     # via arrow
 typing-extensions==4.9.0
@@ -474,8 +436,6 @@ webencodings==0.5.1
     #   tinycss2
 websocket-client==1.7.0
     # via jupyter-server
-widgetsnbextension==4.0.10
-    # via ipywidgets
 xmlformatter==0.2.6
     # via -r requirements.in
 yarl==1.9.4

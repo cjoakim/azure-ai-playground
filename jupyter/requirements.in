@@ -7,7 +7,10 @@ arrow
 certifi
 dnspython
 httpx
-jupyter
+
+#jupyter
+notebook
+
 langchain
 langchain_community
 matplotlib
