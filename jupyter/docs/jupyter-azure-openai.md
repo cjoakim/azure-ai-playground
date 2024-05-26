@@ -10,6 +10,7 @@
 
 - https://pypi.org/project/openai/
 - https://platform.openai.com/docs/overview
+- https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results
 
 ---
 

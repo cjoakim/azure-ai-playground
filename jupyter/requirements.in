@@ -6,11 +6,9 @@ Jinja2
 arrow
 certifi
 dnspython
+docopt
 httpx
-
-#jupyter
 notebook
-
 langchain
 langchain_community
 matplotlib
