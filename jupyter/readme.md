@@ -16,6 +16,11 @@ This page describes the basic setup of a locally-running Jupyter Notebook Server
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - https://code.visualstudio.com/docs/editor/workspace-trust
 
+### OpenAI
+
+- **openai** python library
+  - https://pypi.org/project/openai/
+  - https://github.com/openai/openai-python
 
 ---
 
