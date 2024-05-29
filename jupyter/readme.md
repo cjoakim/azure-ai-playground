@@ -16,6 +16,13 @@ This page describes the basic setup of a locally-running Jupyter Notebook Server
 - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 - https://code.visualstudio.com/docs/editor/workspace-trust
 
+### Semantic Kernel
+
+- https://learn.microsoft.com/en-us/semantic-kernel/agents/plugins/using-the-kernelfunction-decorator?tabs=Csharp
+
+- https://learn.microsoft.com/en-us/semantic-kernel/agents/plugins/out-of-the-box-plugins?tabs=Csharp
+
+
 ### OpenAI
 
 - **openai** python library
